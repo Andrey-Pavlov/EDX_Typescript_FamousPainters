@@ -1,0 +1,129 @@
+﻿{
+  "famousPainters": [
+    {
+      "name": "Michelangelo",
+      "photo": "images/michelangelo/painter.jpg",
+      "details": {
+        "style": "Renaissance",
+        "birthplace": "Caprese near Arezzo, Republic of Florence",
+        "nationality": "Italian",
+        "birthdate": "6 March 1475"
+      },
+      "description":  "Michelangelo di Lodovico Buonarroti Simoni (6 March 1475 – 18 February 1564) (Italian pronunciation: [mikeˈlandʒelo]), was an Italian sculptor, painter, architect, poet, and engineer of the High Renaissance who exerted an unparalleled influence on the development of Western art. Considered as the greatest living artist in his lifetime, he has since been held as one of the greatest artists of all time. Despite making few forays beyond the arts, his versatility in the disciplines he took up was of such a high order that he is often considered a contender for the title of the archetypal Renaissance man, along with his fellow Italian Leonardo da Vinci.",
+      "examples": [
+        {
+          "title": "David",
+          "link": "images/michelangelo/david.jpg"
+        },
+        {
+          "title": "Sistine Chapel",
+          "link": "images/michelangelo/sistine.jpg"
+        },
+        {
+          "title": "The Last Judgement",
+          "link": "images/michelangelo/judgment.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Raphael",
+      "photo": "images/raphael/painter.jpg",
+      "details": {
+        "style": "Renaissance",
+        "birthplace": "Urbino, Marche, Italy",
+        "nationality": "Italian",
+        "birthdate": "March 28, 1483 or April 6, 1483"
+      },
+      "description":  "Raphael was enormously productive, running an unusually large workshop and, despite his death at 37, leaving a large body of work. Many of his works are found in the Vatican Palace, where the frescoed Raphael Rooms were the central, and the largest, work of his career. The best known work is The School of Athens in the Vatican Stanza della Segnatura. After his early years in Rome much of his work was executed by his workshop from his drawings, with considerable loss of quality. He was extremely influential in his lifetime, though outside Rome his work was mostly known from his collaborative printmaking. After his death, the influence of his great rival Michelangelo was more widespread until the 18th and 19th centuries, when Raphael's more serene and harmonious qualities were again regarded as the highest models. His career falls naturally into three phases and three styles, first described by Giorgio Vasari: his early years in Umbria, then a period of about four years (1504–1508) absorbing the artistic traditions of Florence, followed by his last hectic and triumphant twelve years in Rome, working for two Popes and their close associates.",
+      "examples": [
+        {
+          "title": "School at Athens",
+          "link": "images/raphael/schoolOfAthens.jpg"
+        },
+        {
+          "title": "Lucretia",
+          "link": "images/raphael/lucretia.jpg"
+        },
+        {
+          "title": "Saint George and the Dragon",
+          "link": "images/raphael/saint_george.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Vincent van Gogh",
+      "photo": "images/vincent_van_gogh/painter.jpg",
+      "details": {
+        "style": "Post-Impressionist",
+        "birthplace": "Zundert, Netherlands",
+        "nationality": "Dutch",
+        "birthdate": "30 March 1853"
+      },
+      "description":  "Van Gogh was born to upper middle class parents and spent his early adulthood working for a firm of art dealers. He traveled between The Hague, London and Paris, after which he taught in England at Isleworth and Ramsgate. He was deeply religious as a younger man and aspired to be a pastor. From 1879 he worked as a missionary in a mining region in Belgium, where he began to sketch people from the local community. In 1885 he painted The Potato Eaters, considered his first major work. His palette then consisted mainly of somber earth tones and showed no sign of the vivid coloration that distinguished his later paintings. In March 1886, he moved to Paris and discovered the French Impressionists. Later, he moved to the south of France and was influenced by the strong sunlight he found there. His paintings grew brighter in color, and he developed the unique and highly recognizable style that became fully realized during his stay in Arles in 1888.",
+      "examples": [
+        {
+          "title": "Self-portrait",
+          "link": "images/vincent_van_gogh/self-portrait.jpg"
+        },
+        {
+          "title": "The Starry Night",
+          "link": "images/vincent_van_gogh/starryNight.jpg"
+        },
+        {
+          "title": "The Yellow House",
+          "link": "images/vincent_van_gogh/yellowHouse.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Claude Monet",
+      "photo": "images/monet/painter.jpg",
+      "details": {
+        "style": "Impressionist",
+        "birthplace": "Paris, France",
+        "nationality": "French",
+        "birthdate": "14 November 1840"
+      },
+      "description":  "Monet's ambition of documenting the French countryside led him to adopt a method of painting the same scene many times in order to capture the changing of light and the passing of the seasons. From 1883 Monet lived in Giverny, where he purchased a house and property, and began a vast landscaping project which included lily ponds that would become the subjects of his best-known works. In 1899 he began painting the water lilies, first in vertical views with a Japanese bridge as a central feature, and later in the series of large-scale paintings that was to occupy him continuously for the next 20 years of his life.",
+      "examples": [
+        {
+          "title": "Morning on the Seine",
+          "link": "images/monet/morningOnTheSeine.jpg"
+        },
+        {
+          "title": "The Woman in the Green Dress",
+          "link": "images/monet/womanInAGreenDress.jpg"
+        },
+        {
+          "title": "Sunrise",
+          "link": "images/monet/sunrise.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Johannes Vermeer",
+      "photo": "images/vermeer/painter.jpg",
+      "details": {
+        "style": "Baroque",
+        "birthplace": "Delft, Dutch Republic",
+        "nationality": "Dutch",
+        "birthdate": "31 October 1632"
+      },
+      "description":  "He was recognized during his lifetime in Delft and The Hague, but his modest celebrity gave way to obscurity after his death. He was barely mentioned in Arnold Houbraken's major source book on 17th-century Dutch painting (Grand Theatre of Dutch Painters and Women Artists), and was thus omitted from subsequent surveys of Dutch art for nearly two centuries. In the 19th century, Vermeer was rediscovered by Gustav Friedrich Waagen and Théophile Thoré-Bürger, who published an essay attributing 66 pictures to him, although only 34 paintings are universally attributed to him today. Since that time, Vermeer's reputation has grown, and he is now acknowledged as one of the greatest painters of the Dutch Golden Age.",
+      "examples": [
+        {
+          "title": "The Milkmaid",
+          "link": "images/vermeer/milkmaid.jpg"
+        },
+        {
+          "title": "Girl with a Pearl Earring",
+          "link": "images/vermeer/girlWithThePearlEarring.jpg"
+        },
+        {
+          "title": "The Music Lesson",
+          "link": "images/vermeer/musicLesson.jpg"
+        }
+      ]
+    }
+  ]
+}

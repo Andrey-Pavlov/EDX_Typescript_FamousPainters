@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Famous Painters</title>
+    <link rel="shortcut icon" href="images/paint-brush.ico">
+    <link rel="stylesheet" type="text/css" href="styles/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="styles/app.css" />
+    <script src="scripts/libs/require.js" data-main="scripts/app.js"></script>
+
+    <script type="text/template" id="PainterTemplate">
+
+        <div class="painter-info container">
+            <h2 class="painter-title"></h2>
+
+            <div class="image-details">
+                <img class="painter-image" title="" src="" />
+
+                <div class="painter-details">
+                    <!-- painter detail template -->
+                </div>
+            </div>
+
+            <div class="painter-description-container">
+                <h3>Painter Description</h3>
+
+                <div class="painter-description"></div>
+            </div>
+        </div>
+
+        <div class="painter-examples container">
+            <h3>Examples</h3>
+            <div class="examples" id="Examples">
+                <!-- example template -->
+            </div>
+        </div>
+    </script>
+
+    <script type="text/template" id="PainterDetailTemplate">
+        <div class="painter-detail">
+            <label class="name"></label>
+            <span class="text"></span>
+        </div>
+    </script>
+
+    <script type="text/template" id="ExampleTemplate">
+        <div class="paint-container">
+            <img class="paint" title="" url="" />
+            <span class="title"></span>
+        </div>
+    </script>
+</head>
+<body>
+    <div class="app">
+        <header class="row">
+            <div class="col-md-1">
+                <img class="logoImg" src="images/brush.png" />
+            </div>
+            <div class="col-md-11 pull-left">
+                <h1>Famous Painters</h1>
+            </div>
+        </header>
+        <div>
+            <select class="painters" id="Painters">
+                <option disabled>Choose a painter. . .</option>
+            </select>
+
+            <div id="Painter">
+            </div>
+            </>
+        </div>
+    </div>
+</body>
+</html>

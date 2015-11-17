@@ -1,0 +1,73 @@
+﻿html, body
+{
+    width: 100%;
+}
+
+.app {
+    margin: 40px;
+}
+
+.logoImg {
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+.container {
+    border: 5px solid #795548;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.examples {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.paint-container {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    font-style: italic;
+}
+
+.paint {
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.title {
+    font-style: italic;
+}
+
+.painter-examples {
+}
+.painter-title
+{
+    text-align:center;
+}
+.painter-image
+{
+    width: 300px;
+    max-height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.painter-details
+{
+    display: inline-block;
+    vertical-align: text-top;
+}
+.painter-detail .name
+{
+    font-weight:bold;
+}
+.image-details
+{
+    margin: 0 auto;
+    width: 60%;
+}

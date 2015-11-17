@@ -1,0 +1,6 @@
+C:\Users\Andrey_Pavlov\Documents\Visual Studio 2015\Projects\Final-Project\Final-Project\bin\FamousPainters.dll.config
+C:\Users\Andrey_Pavlov\Documents\Visual Studio 2015\Projects\Final-Project\Final-Project\bin\FamousPainters.dll
+C:\Users\Andrey_Pavlov\Documents\Visual Studio 2015\Projects\Final-Project\Final-Project\bin\FamousPainters.pdb
+C:\Users\Andrey_Pavlov\Documents\Visual Studio 2015\Projects\Final-Project\Final-Project\obj\Debug\FamousPainters.dll
+C:\Users\Andrey_Pavlov\Documents\Visual Studio 2015\Projects\Final-Project\Final-Project\obj\Debug\FamousPainters.pdb
+C:\Users\Andrey_Pavlov\Documents\Visual Studio 2015\Projects\Final-Project\Final-Project\obj\Debug\FamousPainters.csprojResolveAssemblyReference.cache
